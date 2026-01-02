@@ -1,0 +1,18 @@
+[
+    {
+        "link": "http:\/\/localhost\/homeservice\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2026-01-02T10:41:50+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/homeservice\/post-type-page-sitemap-1.xml",
+        "updated": "2026-01-02T10:41:50+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/homeservice\/post-type-post-sitemap-1.xml",
+        "updated": "2026-01-02T10:41:50+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/homeservice\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2026-01-02T10:41:50+00:00"
+    }
+]
